@@ -5,5 +5,6 @@ orange
 red 
 yellow
 colors of sky
+sky is blue
 
 hbjvbjhj is ul
