@@ -1,0 +1,7 @@
+greeen 
+viloet 
+blue 
+orange 
+red 
+yellow
+colors of sky
